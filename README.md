@@ -1,0 +1,2 @@
+# Energy-Data-Time_Series_Analysis-of-Electrical_Load-2019-in-Germany-
+This repository contains data and scripts for analyzing the time series of electrical load in Germany for the year 2019. The dataset includes daily electricity consumption, wind power production, and solar power production. The analysis aims to understand patterns, trends, and potential forecasting models for electrical load demands.
